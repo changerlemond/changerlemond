@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jungclaire
 - 👀 I’m interested in baseball🎾
-- 🌱 I’m currently learning python, docker.
+- 🌱 I’m currently learning java, python, docker.
 - 📫 How to reach me : facebook & linkedin
