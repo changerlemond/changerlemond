@@ -13,8 +13,8 @@
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungclaire9405@gmail.com">
     <a href="https://www.facebook.com/seunghee.jung.claire/">
         <img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/seunghee.jung.claire">
-    <a href="https://www.linkedin.com/seunghee-jung-claire/">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seunghee-jung-claire">
+    <a href="https://www.linkedin.com/in/seunghee-jung-claire/">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seunghee-jung-claire/">
     <a href="https://velog.io/@jungclaire/">
         <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@jungclaire">
     </a>
