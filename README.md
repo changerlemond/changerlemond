@@ -41,6 +41,6 @@
 </div>
 <br/>
 
-![Claire's GitHub status](https://github-readme-stats.vercel.app/api?username=jungclaire).  
+![Claire's GitHub status](https://github-readme-stats.vercel.app/api?username=jungclaire)
 <br/>
 ![Claire's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jungclaire&langs_count=8)
