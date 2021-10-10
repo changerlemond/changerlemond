@@ -6,7 +6,7 @@
 <div>
 <p align="left">
     <a href="mailto:dev.jungclaire@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungclaire9405@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.jungclaire@gmail.com">
     <a href="https://www.facebook.com/seunghee.jung.claire/">
         <img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/seunghee.jung.claire">
     <a href="https://www.linkedin.com/in/seunghee-jung-claire/">
@@ -41,4 +41,6 @@
 </div>
 <br/>
 
-![Claire's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungclaire)
+![Claire's GitHub status](https://github-readme-stats.vercel.app/api?username=jungclaire).  
+<br/>
+![Claire's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jungclaire&langs_count=8)
