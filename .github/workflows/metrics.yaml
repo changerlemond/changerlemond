@@ -21,12 +21,17 @@ jobs:
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_mode: icons
+          plugin_topics_limit: 0
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_languages: yes
-          plugin_stars: yes
-          plugin_stars_limit: 4
-          plugin_stargazers: yes
+          plugin_languages_limit: 4
+          plugin_languages_indepth: yes
+          plugin_languages_recent_days : 30
+          commits_authoring: jungclaire@users.noreply.github.com
