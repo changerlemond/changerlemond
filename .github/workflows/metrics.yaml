@@ -34,4 +34,3 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_indepth: yes
           plugin_languages_recent_days : 30
-          commits_authoring: jungclaire@users.noreply.github.com
