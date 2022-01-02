@@ -4,7 +4,7 @@ name: Metrics
 on:
   # Schedule updates
   schedule: [{cron: "0 * * * *"}]
-  push: {branches: "main"}
+  push : {branches: [ "master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
