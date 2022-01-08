@@ -19,7 +19,6 @@ jobs:
           template: classic
           base: header
           config_timezone: Asia/Seoul
-          commits_authoring : jungclaire@users.noreply.github.com, dev.jungclaire@gmail.com
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_topics: yes
