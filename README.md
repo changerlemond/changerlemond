@@ -1,3 +1,4 @@
+![Chat](https://github.com/jungclaire/jungclaire/blob/main/chat.svg)
 <p align="left">
     <img src="https://img.shields.io/badge/Java-palegoldenrod?style=flat-square&logo=Java&logoColor=red"/>
     <img src="https://img.shields.io/badge/Spring-white?style=flat-square&logo=Spring&logoColor=white&color=6DB33F"/>
@@ -6,6 +7,6 @@
     <img src="https://img.shields.io/badge/Graphql-E10098?style=flat-square&logo=Graphql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-</p>
-  
+</p>  
+
 ![Metrics](https://github.com/jungclaire/jungclaire/blob/main/github-metrics.svg)
