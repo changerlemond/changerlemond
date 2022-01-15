@@ -267,9 +267,9 @@
     </g>
 
     <g transform="translate(10, 120)" class="msg-3">
-        <rect width="320" height="66.1302" rx="18.0355" class="bubble" />
-        <text x="15" y="27">I’m backend developer.</text>
-        <text x="15" y="50">I'm interested in data engineering.</text>
+        <rect width="400" height="66.1302" rx="18.0355" class="bubble" />
+        <text x="15" y="27">I am a backend developer</text>
+        <text x="15" y="50">and I am very interested in data engineering.</text>
     </g>
 
     <g transform="translate(10, 192)" class="typing-4">
@@ -290,12 +290,12 @@
     </g>
 
     <g transform="translate(10, 192)" class="msg-4">
-        <rect width="440" height="42" rx="18.0355" class="bubble" />
-        <text x="15" y="27">You can find me more on my personal page
-            <a xlink:href="https://claire.oopy.io/">here!</a></text>
+        <rect width="320" height="66.1302" rx="18.0355" class="bubble" />
+        <text x="15" y="27">I'm taking a step forward every day</text>
+        <text x="15" y="50">to become a good developer.</text>
     </g>
 
-    <g transform="translate(10, 240)" class="typing-5">
+    <g transform="translate(10, 264)" class="typing-5">
         <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
         <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
         <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -312,30 +312,11 @@
 
     </g>
 
-    <g transform="translate(10, 240)" class="msg-5">
-        <rect width="305" height="42" rx="18.0355" class="bubble" />
+    <g transform="translate(10, 264)" class="msg-5">
+        <rect width="500" height="95.7276" rx="18.0355" class="bubble" />
         <text x="15" y="27">Thank you for visiting my GitHub.</text>
-    </g>
-
-    <g transform="translate(10, 288)" class="typing-6">
-        <rect x="8.27246" width="69.7276" height="42" rx="20.9774" />
-        <circle cx="13.591" cy="33.091" r="7.68185" />
-        <circle cx="3.54547" cy="41.9547" r="3.54547" />
-
-        <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-            <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-            <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-            <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-        </circle>
-    </g>
-
-    <g transform="translate(10, 288)" class="msg-6">
-        <rect width="250" height="42" rx="18.0355" />
-        <text x="15" y="27">Have a great Sunday! <tspan class="emoji">👋🏻</tspan></text>
+        <text x="15" y="50">Stay safe on this pandemic!</text>
+        <text x="15" y="83">Have a great {today}! <tspan class="emoji">👋🏻</tspan></text>
     </g>
 
 </svg>
