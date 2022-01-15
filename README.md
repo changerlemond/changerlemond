@@ -1,3 +1,6 @@
+</br>
+</br>
+
 ![Chat](https://github.com/jungclaire/jungclaire/blob/main/chat.svg)
 <p align="left">
     <img src="https://img.shields.io/badge/Java-palegoldenrod?style=flat-square&logo=Java&logoColor=red"/>
