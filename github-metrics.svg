@@ -220,12 +220,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="192.5289171539545" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="192.5289171539545" y="0" width="159.89756284946006" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="352.4264800034146" y="0" width="78.09338853557557" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="430.5198685389901" y="0" width="25.926415980195483" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="456.4462845191856" y="0" width="2.6112936958470274" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.05757821503266" y="0" width="0.9424217849673482" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.7070931035204" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="188.7070931035204" y="0" width="156.72349237559354" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="345.4305854791139" y="0" width="85.67448281632397" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="431.1050682954379" y="0" width="25.41175978413203" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.5168280795699" y="0" width="2.5594578199845213" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.0762858995545" y="0" width="0.9237141004455414" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -237,7 +237,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>41.85%</div>
+                                <div>41.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -248,7 +248,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>16.98%</div>
+                                <div>18.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -259,7 +259,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>0.57%</div>
+                                <div>0.56%</div>
                             </small>
                         </div>
                     </section>
@@ -272,7 +272,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>34.76%</div>
+                                <div>34.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -283,7 +283,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>5.64%</div>
+                                <div>5.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -488,32 +488,32 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 32.86674906257201%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 32.806178124737684%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">41%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 27.29622724511385%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 27.34491731721649%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">34%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 14.804449378888494%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 14.807353311508436%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">19%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 4.425917003582127%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 4.433811802232855%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">6%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.44577581331043004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.44657097288676234%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">SCSS</span>
-                            <div class="bar" style="width: 0.16088149653308753%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.16116847141777887%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -1588,7 +1588,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jan 2022, 05:03:48 (timezone Asia/Seoul) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 26 Jan 2022, 06:03:41 (timezone Asia/Seoul) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
