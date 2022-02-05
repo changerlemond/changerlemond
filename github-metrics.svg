@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1140" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1151" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits{margin:0;list-style-type:none;padding-left:37px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.field.license.details{display:flex;justify-content:space-between}code{display:inline-block}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits{margin:0;list-style-type:none;padding-left:37px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.field.license.details{display:flex;justify-content:space-between}code{display:inline-block}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -220,11 +220,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="286.59211487752964" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="286.59211487752964" y="0" width="127.52771865171394" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="414.11983352924364" y="0" width="43.23506052037996" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="457.35489404962357" y="0" width="1.9436413889506625" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.2985354385743" y="0" width="0.7014645614258029" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.4572591587517" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="284.4572591587517" y="0" width="129.68243199586485" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="414.1396911546165" y="0" width="43.170511080958846" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="457.31020223557533" y="0" width="1.9764812302125736" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.2866834657879" y="0" width="0.7133165342120565" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -236,7 +236,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>62.3%</div>
+                                <div>61.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -247,7 +247,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>9.4%</div>
+                                <div>9.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -258,7 +258,7 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>0.15%</div>
+                                <div>0.16%</div>
                             </small>
                         </div>
                     </section>
@@ -271,7 +271,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>27.72%</div>
+                                <div>28.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -282,7 +282,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>0.42%</div>
+                                <div>0.43%</div>
                             </small>
                         </div>
                     </section>
@@ -474,6 +474,31 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
+                        <div class="entry">
+                            <span class="name">Java</span>
+                            <div class="bar" style="width: 49.85073638921065%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">62%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">HTML</span>
+                            <div class="bar" style="width: 23.13155717358928%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">29%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">TypeScript</span>
+                            <div class="bar" style="width: 6.538474267747807%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">8%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">CSS</span>
+                            <div class="bar" style="width: 0.35214297534337247%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">0%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">SCSS</span>
+                            <div class="bar" style="width: 0.1270891941088863%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">0%</span>
+                        </div>
                     </div>
                 </section>
             </div>
@@ -1529,7 +1554,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2022, 06:04:17 (timezone Asia/Seoul) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 6 Feb 2022, 07:04:16 (timezone Asia/Seoul) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
