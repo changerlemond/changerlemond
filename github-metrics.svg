@@ -440,12 +440,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 42.29698140054883%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 42.35055313102609%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">53%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 37.70301859945116%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 37.64944686897392%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">47%</span>
                         </div>
                     </div>
@@ -1530,7 +1530,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2022, 10:29:11 (timezone Asia/Seoul) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 24 Feb 2022, 11:18:40 (timezone Asia/Seoul) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
