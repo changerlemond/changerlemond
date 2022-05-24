@@ -16,3 +16,5 @@
 </p>  
 
 ![Metrics](https://github.com/jungclaire/jungclaire/blob/main/github-metrics.svg)
+
+![Claire's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungclaire)
