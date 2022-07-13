@@ -214,14 +214,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 28.7kb of code in 59 edited files across 35 commits over last 7 days</small>
+                <small>estimation from 29.8kb of code in 59 edited files across 35 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="406.003380995985" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="406.003380995985" y="0" width="53.99661900401493" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="407.9978292575383" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="407.9978292575383" y="0" width="52.00217074246176" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -233,7 +233,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>88.26%</div>
+                                <div>88.7%</div>
                             </small>
                         </div>
                     </section>
@@ -246,7 +246,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>11.74%</div>
+                                <div>11.3%</div>
                             </small>
                         </div>
                     </section>
@@ -441,12 +441,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 70.19525382997897%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 70.1981981981982%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">88%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 8.899569440272353%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 8.896896896896896%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">11%</span>
                             </div>
                         </div>
@@ -1527,7 +1527,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jul 2022, 15:04:23 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 13 Jul 2022, 16:03:49 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
