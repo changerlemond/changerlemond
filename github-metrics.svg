@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1542 Commits
+                            1543 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -214,14 +214,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 13.2kb of code in 53 edited files across 27 commits over last 13 days</small>
+                <small>estimation from 13.1kb of code in 52 edited files across 27 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="341.4488042721151" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="341.4488042721151" y="0" width="118.55119572788483" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.570715733666" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="340.570715733666" y="0" width="119.42928426633401" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -233,7 +233,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>74.23%</div>
+                                <div>74.04%</div>
                             </small>
                         </div>
                     </section>
@@ -246,7 +246,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>25.77%</div>
+                                <div>25.96%</div>
                             </small>
                         </div>
                     </section>
@@ -1517,7 +1517,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2022, 00:03:51 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 23 Aug 2022, 01:03:50 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
