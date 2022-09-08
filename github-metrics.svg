@@ -220,10 +220,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.33473005640616" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="259.33473005640616" y="0" width="181.9242546333602" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.2589846897663" y="0" width="13.12167606768735" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.38066075745365" y="0" width="5.619339242546334" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.3430892212481" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="259.3430892212481" y="0" width="181.93011861784424" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="441.27320783909227" y="0" width="13.12209902011346" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.39530685920573" y="0" width="5.6046931407942235" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -465,22 +465,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 42.364691928335105%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">53%</span>
+                                <div class="bar" style="width: 45.15801429812254%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">56%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 32.73862288532368%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">41%</span>
+                                <div class="bar" style="width: 31.42914411705753%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">39%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 3.9178475560272172%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 2.3652034475846864%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 0.9438791435170735%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.010222489476849%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -1566,7 +1566,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Sept 2022, 15:18:53 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 8 Sept 2022, 16:13:34 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
