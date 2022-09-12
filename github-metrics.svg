@@ -214,16 +214,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 30.1kb of code in 90 edited files across 37 commits over last 11 days</small>
+                <small>estimation from 29.7kb of code in 90 edited files across 37 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.21307120085015" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="267.21307120085015" y="0" width="173.49295961742826" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="440.70603081827846" y="0" width="13.51952709883103" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.2255579171095" y="0" width="5.774442082890542" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="270.3282378632622" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="270.3282378632622" y="0" width="170.15286410213338" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="440.4811019653956" y="0" width="13.67713757769192" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.1582395430875" y="0" width="5.841760456912481" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -235,7 +235,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>58.09%</div>
+                                <div>58.77%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -246,7 +246,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>2.94%</div>
+                                <div>2.97%</div>
                             </small>
                         </div>
                     </section>
@@ -259,7 +259,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>37.72%</div>
+                                <div>36.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -270,7 +270,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>1.26%</div>
+                                <div>1.27%</div>
                             </small>
                         </div>
                     </section>
@@ -465,22 +465,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 45.66563049060684%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">57%</span>
+                                <div class="bar" style="width: 44.56730928210046%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">56%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 30.882551696175156%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">39%</span>
+                                <div class="bar" style="width: 32.05449555239576%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">40%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 2.39221516421138%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.3411924208855526%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 1.021759697256386%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.9999669323104394%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -1551,7 +1551,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Sept 2022, 22:18:37 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 12 Sept 2022, 23:09:48 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
