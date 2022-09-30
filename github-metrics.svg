@@ -220,10 +220,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.91275629558277" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="285.91275629558277" y="0" width="160.11063712673732" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="446.0233934223201" y="0" width="7.570661896243292" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="453.5940553185634" y="0" width="6.405944681436631" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="286.28306878306876" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="286.28306878306876" y="0" width="157.4024470899471" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="443.68551587301585" y="0" width="8.734016754850089" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="452.4195326278659" y="0" width="7.580467372134039" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -235,18 +235,18 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>62.15%</div>
+                                <div>62.24%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Java
+                                CSS
                             </div>
                             <small>
-                                <div>1.65%</div>
+                                <div>1.9%</div>
                             </small>
                         </div>
                     </section>
@@ -259,18 +259,18 @@
                                 HTML
                             </div>
                             <small>
-                                <div>34.81%</div>
+                                <div>34.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                CSS
+                                Java
                             </div>
                             <small>
-                                <div>1.39%</div>
+                                <div>1.65%</div>
                             </small>
                         </div>
                     </section>
@@ -465,22 +465,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 49.45924485940366%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 49.45581955545823%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">62%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 27.69104399967144%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 27.695171356618854%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">35%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 1.509185992388358%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.508814190298916%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 1.3098595405634805%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.3095368444103799%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
@@ -1534,7 +1534,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Oct 2022, 06:03:56 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 1 Oct 2022, 07:04:01 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
