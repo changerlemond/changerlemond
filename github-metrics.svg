@@ -220,8 +220,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.8717948717949" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="409.8717948717949" y="0" width="50.12820512820513" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="410.04702864472" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="410.04702864472" y="0" width="49.952971355280035" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -233,7 +233,7 @@
                                 Swift
                             </div>
                             <small>
-                                <div>89.1%</div>
+                                <div>89.14%</div>
                             </small>
                         </div>
                     </section>
@@ -246,7 +246,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>10.9%</div>
+                                <div>10.86%</div>
                             </small>
                         </div>
                     </section>
@@ -1529,7 +1529,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2022, 13:39:45 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 19 Oct 2022, 14:32:11 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
