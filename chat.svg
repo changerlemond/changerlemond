@@ -230,7 +230,7 @@
     <g transform="translate(10, 48)" class="msg-2">
         <rect width="440" height="66.1302" rx="18.0355" class="bubble" />
         <text x="15" y="27">I am from Seoul, Korea where it’s supposed to be</text>
-        <text x="15" y="50">67° F (19° C) and <tspan class="emoji">☀️</tspan> today.</text>
+        <text x="15" y="50">67° F (19° C) and <tspan class="emoji">☁️</tspan> today.</text>
     </g>
 
     <g transform="translate(10, 120)" class="typing-3">
@@ -299,6 +299,6 @@
         <rect width="305" height="95.7276" rx="18.0355" class="bubble" />
         <text x="15" y="27">Thank you for visiting my GitHub.</text>
         <text x="15" y="50">Stay safe on this pandemic!</text>
-        <text x="15" y="83">Have a great Sunday! <tspan class="emoji">👋🏻</tspan></text>
+        <text x="15" y="83">Have a great Monday! <tspan class="emoji">👋🏻</tspan></text>
     </g>
 </svg>
