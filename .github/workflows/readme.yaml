@@ -26,7 +26,7 @@ jobs:
         uses: EndBug/add-and-commit@v4
         with:
           author_name: jungclaire
-          author_email: dev.jungclaire@gmail.com
+          author_email: 83348294+jungclaire@users.noreply.github.com
           message: "Auto updating my readme"
           add: "*.svg"
         env:
