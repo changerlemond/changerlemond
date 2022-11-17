@@ -18,7 +18,7 @@ jobs:
           user: jungclaire
           template: classic
           base: header, activity, community, repositories, metadata
-          commits_authoring: jungclaire@users.noreply.github.com, dev.jungclaire@gmail.com
+          commits_authoring: 83348294+jungclaire@users.noreply.github.com
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
