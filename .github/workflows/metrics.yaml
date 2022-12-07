@@ -15,10 +15,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: jungclaire
+          user: changerlemond
           template: classic
           base: header, activity, community, repositories, metadata
-          commits_authoring: 83348294+jungclaire@users.noreply.github.com
+          commits_authoring: 83348294+changerlemond@users.noreply.github.com
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
