@@ -214,15 +214,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 167kb of code in 244 edited files across 108 commits over last 14 days</small>
+                <small>estimation from 171kb of code in 248 edited files across 108 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.45939554076756" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="324.45939554076756" y="0" width="87.60189851739493" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="412.0612940581625" y="0" width="47.93870594183752" height="8" fill="#4298b8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="328.6218153936146" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="328.6218153936146" y="0" width="84.91166496715597" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="413.5334803607705" y="0" width="46.466519639229446" height="8" fill="#4298b8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -234,7 +234,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>70.53%</div>
+                                <div>71.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -245,7 +245,7 @@
                                 Groovy
                             </div>
                             <small>
-                                <div>10.42%</div>
+                                <div>10.1%</div>
                             </small>
                         </div>
                     </section>
@@ -258,7 +258,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>19.04%</div>
+                                <div>18.46%</div>
                             </small>
                         </div>
                     </section>
@@ -275,7 +275,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 25.7 characters per line of code written</li>
+                        <li>Has approximately 26.4 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -453,18 +453,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Kotlin</span>
-                                <div class="bar" style="width: 41.33652748985895%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">52%</span>
+                                <div class="bar" style="width: 42.21352919882761%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">53%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 11.160590002927313%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 10.907434870441515%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Groovy</span>
-                                <div class="bar" style="width: 6.107450310354921%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 5.968915305300278%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                         </div>
                     </section>
@@ -1519,7 +1519,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Mar 2023, 20:03:36 (timezone Asia/Seoul) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 10 Mar 2023, 21:04:53 (timezone Asia/Seoul) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
