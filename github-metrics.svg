@@ -214,16 +214,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 379kb of code in 652 edited files across 259 commits over last 14 days</small>
+                <small>estimation from 377kb of code in 649 edited files across 257 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="336.9242181303601" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="336.9242181303601" y="0" width="100.50138941986728" height="8" fill="#4298b8"/>
-                    <rect mask="url(#languages-bar)" x="437.42560755022737" y="0" width="22.097995469407085" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.52360301963444" y="0" width="0.47639698036552874" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="336.4200346056446" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="336.4200346056446" y="0" width="100.91309628848732" height="8" fill="#4298b8"/>
+                    <rect mask="url(#languages-bar)" x="437.33313089413195" y="0" width="22.18852055139855" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.52165144553055" y="0" width="0.4783485544695138" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -235,7 +235,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>73.24%</div>
+                                <div>73.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -246,7 +246,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>4.8%</div>
+                                <div>4.82%</div>
                             </small>
                         </div>
                     </section>
@@ -259,7 +259,7 @@
                                 Groovy
                             </div>
                             <small>
-                                <div>21.85%</div>
+                                <div>21.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1554,7 +1554,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Apr 2023, 12:03:58 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Apr 2023, 13:03:36 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
