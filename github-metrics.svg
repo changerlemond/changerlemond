@@ -214,17 +214,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 283kb of code in 494 edited files across 188 commits over last 10 days</small>
+                <small>estimation from 287kb of code in 495 edited files across 189 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="287.48406639917704" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="287.48406639917704" y="0" width="69.6433682436408" height="8" fill="#4298b8"/>
-                    <rect mask="url(#languages-bar)" x="357.12743464281783" y="0" width="62.77227572436673" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="419.8997103671846" y="0" width="39.73359854538277" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.6333089125673" y="0" width="0.3666910874326689" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="283.0677974337219" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="283.0677974337219" y="0" width="68.5735216616146" height="8" fill="#4298b8"/>
+                    <rect mask="url(#languages-bar)" x="351.64131909533654" y="0" width="61.80798140139863" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="413.4493004967352" y="0" width="46.18964144617581" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.638941942911" y="0" width="0.3610580570890348" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -236,7 +236,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>62.5%</div>
+                                <div>61.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -247,7 +247,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>13.65%</div>
+                                <div>13.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -271,7 +271,7 @@
                                 Groovy
                             </div>
                             <small>
-                                <div>15.14%</div>
+                                <div>14.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -282,7 +282,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>8.64%</div>
+                                <div>10.04%</div>
                             </small>
                         </div>
                     </section>
@@ -1564,7 +1564,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2023, 01:03:54 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Jun 2023, 02:03:20 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
