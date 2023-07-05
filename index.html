@@ -7,7 +7,7 @@
     <title>Vite App</title>
 </head>
 <body>
-<svg width="550" height="400" viewBox="0 0 550 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="550" height="300" viewBox="0 0 550 300" fill="none" xmlns="http://www.w3.org/2000/svg">
     <style>
         rect {
             fill: #e9e9eb;
@@ -56,15 +56,6 @@
 
         .msg-4 {
             animation: wait 9.2s, msg-4 0.2s 9.2s;
-        }
-
-        .typing-5 {
-            opacity: 0;
-            animation: wait 10s, fade-in-out 1.5s 10s;
-        }
-
-        .msg-5 {
-            animation: wait 11.7s, msg-5 0.2s 11.7s;
         }
 
         @keyframes wait {
@@ -128,29 +119,6 @@
                 transform: translate(10px, 192px);
             }
         }
-
-        @keyframes msg-5 {
-            0% {
-                opacity: 0;
-                transform: translate(10px, 269px);
-            }
-            100% {
-                opacity: 1;
-                transform: translate(10px, 264px);
-            }
-        }
-
-        @media (prefers-color-scheme: dark) {
-            rect {
-                fill: #3b3b3d;
-            }
-            text {
-                fill: #dcdcdc;
-            }
-            a {
-                fill: #0c82f9;
-            }
-        }
     </style>
 
     <g transform="translate(10, 0)" class="typing-1">
@@ -169,12 +137,13 @@
         </circle>
     </g>
 
-    <g transform="translate(10, 0)" class="msg-1">
-        <rect width="220" height="42" rx="18.0355" />
-        <text x="15" y="27">Hi, I'm Seung-hee Jung!</text>
+    <g transform="translate(10, 0)" class="msg-1 bubble">
+        <rect width="500" height="66" rx="18.0355" />
+        <text x="15" y="27">Hello, I'm Seunghee Jung.</text>
+        <text x="15" y="50">a backend developer fascinated by software architecture. <tspan class="emoji">🏗️💻</tspan></text>
     </g>
 
-    <g transform="translate(10, 48)" class="typing-2">
+    <g transform="translate(10, 70)" class="typing-2">
         <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
         <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
         <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -190,13 +159,13 @@
         </circle>
     </g>
 
-    <g transform="translate(10, 48)" class="msg-2">
-        <rect width="418" height="66.1302" rx="18.0355" />
-        <text x="15" y="27">I live in Seoul, Korea – it’s supposed to be</text>
+    <g transform="translate(10, 70)" class="msg-2">
+        <rect width="440" height="66" rx="18.0355" class="bubble" />
+        <text x="15" y="27">I live in Seoul, Korea where it’s supposed to be</text>
         <text x="15" y="50">{degF}° F ({degC}° C) and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
     </g>
 
-    <g transform="translate(10, 120)" class="typing-3">
+    <g transform="translate(10, 140)" class="typing-3">
         <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
         <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
         <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -212,13 +181,14 @@
         </circle>
     </g>
 
-    <g transform="translate(10, 120)" class="msg-3">
-        <rect width="418" height="66.1302" rx="18.0355" />
-        <text x="15" y="27">I am a Software Engineer</text>
-        <text x="15" y="50">and I am very interested in data engineering.</text>
+    <g transform="translate(10, 140)" class="msg-3">
+        <rect width="440" height="90" rx="18.0355" class="bubble" />
+        <text x="15" y="27">I am methodical and make steady progress.</text>
+        <text x="15" y="50"> I embrace new technologies and trends with ease.</text>
+        <text x="15" y="73"> Communication is important to me.</text>
     </g>
 
-    <g transform="translate(10, 192)" class="typing-4">
+    <g transform="translate(10, 234)" class="typing-4">
         <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
         <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
         <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -234,32 +204,10 @@
         </circle>
     </g>
 
-    <g transform="translate(10, 192)" class="msg-4">
-        <rect width="418" height="66.1302" rx="18.0355" />
-        <text x="15" y="27">I'm taking a step forward every day</text>
-        <text x="15" y="50">to become a good developer.</text>
-    </g>
-
-    <g transform="translate(10, 264)" class="typing-5">
-        <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
-        <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
-        <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
-
-        <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-            <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-            <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-            <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-        </circle>
-    </g>
-
-    <g transform="translate(10, 264)" class="msg-5">
-        <rect width="305" height="95.7276" rx="18.0355" />
-        <text x="15" y="27">Thank you for visiting my GitHub.</text>
-        <text x="15" y="83">Have a great {today}! <tspan class="emoji">👋🏻</tspan></text>
+    <g transform="translate(10, 234)" class="msg-4">
+        <rect width="410" height="66" rx="18.0355" class="bubble" />
+        <text x="15" y="27">For more about me, check the link on the left! </text>
+        <text x="15" y="50">Thank you for visiting. Have a great Thursday! </text>
     </g>
 </svg>
 
