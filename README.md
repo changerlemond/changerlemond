@@ -2,8 +2,6 @@
 
 ![Chat](https://github.com/jungclaire/jungclaire/blob/main/chat.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=changerlemond&theme=flat&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/changerlemond/)
-
 ![Metrics](https://github.com/changerlemond/changerlemond/blob/main/github-metrics.svg)
 
 [![Memome Profile](https://readme.memome.be/v1/jungclaire)](https://github.com/changerlemond/)
