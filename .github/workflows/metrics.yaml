@@ -17,15 +17,9 @@ jobs:
           # Options
           user: changerlemond
           template: classic
-          base: header, activity, community, metadata
+          base: header, metadata
           commits_authoring: 83348294+changerlemond@users.noreply.github.com
           config_timezone: Asia/Seoul
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_topics: yes
-          plugin_topics_sort: stars
-          plugin_topics_mode: icons
-          plugin_topics_limit: 0
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
