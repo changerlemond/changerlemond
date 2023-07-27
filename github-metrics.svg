@@ -66,15 +66,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 445kb of code in 559 edited files across 191 commits over last 14 days</small>
+                <small>estimation from 432kb of code in 535 edited files across 189 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="451.64733178654296" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="451.64733178654296" y="0" width="7.890740350137102" height="8" fill="#4298b8"/>
-                    <rect mask="url(#languages-bar)" x="459.53807213668006" y="0" width="0.4619278633199747" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="451.7305470841001" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="451.7305470841001" y="0" width="7.793497544393444" height="8" fill="#4298b8"/>
+                    <rect mask="url(#languages-bar)" x="459.5240446284935" y="0" width="0.47595537150645967" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -86,7 +86,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>98.18%</div>
+                                <div>98.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -110,7 +110,7 @@
                                 Groovy
                             </div>
                             <small>
-                                <div>1.72%</div>
+                                <div>1.69%</div>
                             </small>
                         </div>
                     </section>
@@ -314,7 +314,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jul 2023, 18:03:45 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 27 Jul 2023, 19:03:54 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
