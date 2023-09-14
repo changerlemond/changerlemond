@@ -18,7 +18,7 @@ jobs:
           user: changerlemond
           template: classic
           base: header, metadata
-          commits_authoring: 83348294+changerlemond@users.noreply.github.com
+          commits_authoring: dev.jungclaire@gmail.com
           config_timezone: Asia/Seoul
           plugin_habits: yes
           plugin_habits_from: 200
