@@ -214,7 +214,7 @@
     <g transform="translate(10, 70)" class="msg-2">
         <rect width="400" height="66" rx="18.0355" class="bubble" />
         <text x="15" y="27">I live in Seoul, Korea, and it’s supposed to be</text>
-        <text x="15" y="50">42° F (6° C) and <tspan class="emoji">☁️</tspan> today.</text>
+        <text x="15" y="50">44° F (7° C) and <tspan class="emoji">☁️</tspan> today.</text>
     </g>
 
     <g transform="translate(10, 140)" class="typing-3">
@@ -260,6 +260,6 @@
     <g transform="translate(10, 234)" class="msg-4">
         <rect width="410" height="66" rx="18.0355" class="bubble" />
         <text x="15" y="27">For more about me, check the link on the left! </text>
-        <text x="15" y="50">Thank you for visiting. Have a great Friday! </text>
+        <text x="15" y="50">Thank you for visiting. Have a great Saturday! </text>
     </g>
 </svg>
