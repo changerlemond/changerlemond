@@ -66,14 +66,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 37.7kb of code in 84 edited files across 72 commits over last 11 days</small>
+                <small>estimation from 38.3kb of code in 86 edited files across 73 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.01034208432776" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="269.01034208432776" y="0" width="190.98965791567224" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="268.13244687785163" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="268.13244687785163" y="0" width="191.86755312214834" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -85,7 +85,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>58.48%</div>
+                                <div>58.29%</div>
                             </small>
                         </div>
                     </section>
@@ -98,7 +98,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>41.52%</div>
+                                <div>41.71%</div>
                             </small>
                         </div>
                     </section>
@@ -748,7 +748,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.67m out of 69.1m repositories</span>
+                                    <span class="gh">ranked 2.67m out of 58.7m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -920,7 +920,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Feb 2024, 00:03:44 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Feb 2024, 01:04:02 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
