@@ -463,7 +463,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.71m out of 136m users</span>
+                                    <span class="gh">ranked 1.71m out of 135m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">29</div>
                                     </div>
@@ -557,7 +557,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 159k out of 136m users</span>
+                                    <span class="gh">ranked 159k out of 135m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">73</div>
                                     </div>
@@ -793,7 +793,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.76m out of 206m repositories</span>
+                                    <span class="gh">ranked 2.76m out of 199m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -965,7 +965,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 May 2024, 06:03:49 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 May 2024, 07:03:28 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
